@@ -20,7 +20,6 @@ public class Main {
 
         gamePanel.startGameThread();
 
-        System.out.println("test");
 
     }
 }
